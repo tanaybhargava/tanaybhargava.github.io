@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.5401365c.chunk.css",
-    "main.js": "/static/js/main.31b10334.chunk.js",
-    "main.js.map": "/static/js/main.31b10334.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4a4f10e1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4a4f10e1.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.ceffd8ab.chunk.js": "/static/js/2.ceffd8ab.chunk.js",
-    "static/js/2.ceffd8ab.chunk.js.map": "/static/js/2.ceffd8ab.chunk.js.map",
+    "main.css": "/static/css/main.9f4eefc3.chunk.css",
+    "main.js": "/static/js/main.b831dd76.chunk.js",
+    "main.js.map": "/static/js/main.b831dd76.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a4c40521.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a4c40521.js.map",
+    "static/css/2.3661fc73.chunk.css": "/static/css/2.3661fc73.chunk.css",
+    "static/js/2.2d97e3f9.chunk.js": "/static/js/2.2d97e3f9.chunk.js",
+    "static/js/2.2d97e3f9.chunk.js.map": "/static/js/2.2d97e3f9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.489266a4d0fc6a9e50b0d473666e555b.js": "/precache-manifest.489266a4d0fc6a9e50b0d473666e555b.js",
+    "precache-manifest.453f075027eeaf5b427fd60565806941.js": "/precache-manifest.453f075027eeaf5b427fd60565806941.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.5401365c.chunk.css.map": "/static/css/main.5401365c.chunk.css.map",
-    "static/js/2.ceffd8ab.chunk.js.LICENSE": "/static/js/2.ceffd8ab.chunk.js.LICENSE",
+    "static/css/2.3661fc73.chunk.css.map": "/static/css/2.3661fc73.chunk.css.map",
+    "static/css/main.9f4eefc3.chunk.css.map": "/static/css/main.9f4eefc3.chunk.css.map",
+    "static/js/2.2d97e3f9.chunk.js.LICENSE.txt": "/static/js/2.2d97e3f9.chunk.js.LICENSE.txt",
     "static/media/index.module.scss": "/static/media/border_colin.c0ae52cf.png",
     "static/media/cassie_wedding.png": "/static/media/cassie_wedding.b53f2155.png",
-    "static/media/jw_marriot_pune.png": "/static/media/jw_marriot_pune.537a7515.png"
+    "static/media/conrad_pune.png": "/static/media/conrad_pune.c203398a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a4f10e1.js",
-    "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.ceffd8ab.chunk.js",
-    "static/css/main.5401365c.chunk.css",
-    "static/js/main.31b10334.chunk.js"
+    "static/js/runtime-main.a4c40521.js",
+    "static/css/2.3661fc73.chunk.css",
+    "static/js/2.2d97e3f9.chunk.js",
+    "static/css/main.9f4eefc3.chunk.css",
+    "static/js/main.b831dd76.chunk.js"
   ]
 }
