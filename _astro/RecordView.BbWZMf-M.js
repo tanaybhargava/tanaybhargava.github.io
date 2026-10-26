@@ -1,0 +1,1 @@
+import{t as e}from"./react.CvnImTBr.js";import{n as t}from"./recentlyViewed.CVjnIIPY.js";var n=e();function r({id:e}){return(0,n.useEffect)(()=>{t(e)},[e]),null}export{r as default};
