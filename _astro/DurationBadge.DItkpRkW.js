@@ -1,1 +1,0 @@
-import{r as e,t}from"./jsx-runtime.Ct5U1sOx.js";var n=t();function r({minutes:t}){return(0,n.jsxs)(`span`,{className:`btn btn-sm pointer-events-none min-w-28 shrink-0 justify-center gap-1`,children:[(0,n.jsx)(`span`,{"aria-hidden":`true`,children:`⏱️`}),e(t)]})}export{r as t};

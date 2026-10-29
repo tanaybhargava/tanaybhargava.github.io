@@ -1,0 +1,1 @@
+import{t as e}from"./react.CvnImTBr.js";import{a as t,n}from"./servingsUrl.DycYJmbL.js";var r=e();function i(e){let[i,a]=(0,r.useState)(e);return(0,r.useEffect)(()=>(a(n(window.location.search,e)),t(a)),[e]),i}export{i as t};
