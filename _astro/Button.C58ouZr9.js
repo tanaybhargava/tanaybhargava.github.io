@@ -1,0 +1,1 @@
+import{f as e}from"./scaling.BfrR9BeD.js";var t=e(),n=`btn btn-sm`;function r({href:e,type:r=`button`,children:i,...a}){return e?(0,t.jsx)(`a`,{className:n,href:e,children:i}):(0,t.jsx)(`button`,{type:r,className:n,...a,children:i})}export{r as t};
